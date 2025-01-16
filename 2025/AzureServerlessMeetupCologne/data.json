@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "florianlenz96"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Serverless Meetup Köln",
+    "Country": "Germany",
+    "Url": "https://www.meetup.com/de-DE/azure-serverless-stammtisch-koln/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "https://sessionize.com/api/v2/18210/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-serverless-meetup-cologne/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "AzureServerlessMeetupCologne.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Cologne",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": "Holzmarkt 2a, 50676 Köln",
+        "Latitude": 50.92965,
+        "Longitude": 6.96307
+      }
+    ]
+  }
+}
